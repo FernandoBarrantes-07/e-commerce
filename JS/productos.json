@@ -1,0 +1,112 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Cámara Hikvision 4k",
+      "cat": "camaras",
+      "desc": "Visión nocturna, resolución 1080p, acceso remoto.",
+      "precio": 85.000,
+      "img": "/img/productos/4k.png",
+      "badge": "Popular"
+    },
+    {
+      "id": 2,
+      "nombre": "Cámara Domo",
+      "cat": "camaras",
+      "desc": "Interior/exterior, gran angular 180°, IP66.",
+      "precio": 18.000,
+      "img": "/img/productos/domo.png",
+      "badge": null
+    },
+    {
+      "id": 3,
+      "nombre": "Alarma Residencial",
+      "cat": "alarmas",
+      "desc": "Kit completo con sensores, sirena y panel de control.",
+      "precio": 78.000,
+      "img": "/img/productos/alarma.png",
+      "badge": "Oferta"
+    },
+    {
+      "id": 4,
+      "nombre": "Alarma Comercial GSM",
+      "cat": "alarmas",
+      "desc": "Notificación por SMS, batería de respaldo 8h.",
+      "precio": 22.000,
+      "img": "/img/productos/alarma.png",
+      "badge": null
+    },
+    {
+      "id": 5,
+      "nombre": "Cerca Eléctrica Panel",
+      "cat": "cercas",
+      "desc": "Panel.",
+      "precio": 38.000,
+      "img": "/img/productos/panel.png",
+      "badge": null
+    },
+    {
+      "id": 6,
+      "nombre": "Energizador 5 Zonas",
+      "cat": "cercas",
+      "desc": "Para cercos de hasta 500m, con teclado LCD.",
+      "precio": 130.000,
+      "img": "/img/productos/panel2.png",
+      "badge": null
+    },
+    {
+      "id": 7,
+      "nombre": "Motor Cremallera 600kg",
+      "cat": "cremallera",
+      "desc": "Para portones de hasta 600kg, uso intensivo.",
+      "precio": 160.000,
+      "img": "/img/productos/motor.png",
+      "badge": "Popular"
+    },
+    {
+      "id": 8,
+      "nombre": "Motor Cremallera 1000kg",
+      "cat": "cremallera",
+      "desc": "Industrial, ciclos ilimitados, control remoto incluido.",
+      "precio": 250.000,
+      "img": "/img/productos/motor2.png",
+      "badge": null
+    },
+    {
+      "id": 9,
+      "nombre": "Pistón para Portón",
+      "cat": "pistones",
+      "desc": "Para portones abatibles de 2 hojas, hasta 400kg.",
+      "precio": 290.000,
+      "img": "/img/productos/kitbill.png",
+      "badge": null
+    },
+    {
+      "id": 10,
+      "nombre": "Kit Pistón Doble",
+      "cat": "pistones",
+      "desc": "Par de pistones con central y 2 controles remotos.",
+      "precio": 390.000,
+      "img": "/img/productos/kitbill2.png",
+      "badge": "Oferta"
+    },
+    {
+      "id": 11,
+      "nombre": "Motor de Cadena",
+      "cat": "cadena",
+      "desc": "Acero reforzado",
+      "precio": 250.000,
+      "img": "/img/productos/cadena.png",
+      "badge": null
+    },
+    {
+      "id": 12,
+      "nombre": "Cadena con Piñón",
+      "cat": "cadena",
+      "desc": "Kit cadena + piñón de repuesto para motor de portón.",
+      "precio": 450.000,
+      "img": "/img/productos/easylink kit.png",
+      "badge": null
+    }
+  ]
+}
